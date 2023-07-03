@@ -1,6 +1,6 @@
 # MM-RobotLab 日报
 
-- 本次更新包括了7月3日前精选出的16篇 LLM+Robotics+Multi-modal的相关研究文章
+- 本次更新包括了7月3日前精选出的16篇 LLM+Robotics+Multi-modal的相关研究文章，所有文章由chatgpt自动筛选，自动生成文章总结，并最后由MM-RobotLab社区来最终筛选出质量最高的。
 
 # P:1 EmbodiedGPT: 通过具身化思维链进行视觉-语言预训练
 
