@@ -10,7 +10,7 @@
 
 - Authors: Yao Mu, Qinglong Zhang, Mengkang Hu, Wenhai Wang, Mingyu Ding, Jun Jin, Bin Wang, Jifeng Dai, Yu Qiao, Ping Luo
 
-- Affiliation: The University of Hong Kong
+- Affiliation: The University of Hong Kong， OpenGV Lab at Shanghai AI Lab, Huawei
 
 - Keywords: Embodied AI, vision-language pre-training, embodied planning, embodied control, multi-modal understanding
 
