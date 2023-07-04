@@ -102,7 +102,7 @@ b. 方法的详细步骤：
 
 * (3). 提出了源模型准备(Source Preparation，SP)步骤，将 $f$ 替换为 $f^{\prime}$。新的问题设置为 $\psi_s^{\prime}=f^{\prime}\left(D_s, L_s\right), \psi_t^{\prime}=g\left(\psi_s^{\prime}, D_s, L_s, D_t\right)$。在第3.3节中详细介绍了 $f^{\prime}$ 的设计，但需要注意的是，不提议添加任何额外的参数或显著改变网络架构。
 
-* (4). 最后一步是有限标记数据的监督对齐(Supervised Alignment)，通过更新得到最终的目标模型$\psi_t^{\prime \prime}=h\left(\psi_t^{\prime}, D_t^{\prime}, L_t^{\prime}\right)$，其中$D_t^{\prime}$是有限标记数据集合，$L_t^{\prime}$是对应的标签集合。本文提出的方法框架如图2所示，突出了在现有无监督域适应方法基础上构建AUDA的修改。
+* (4). 最后一步是有限标记数据的监督对齐(Supervised Alignment)，通过更新得到最终的目标模型 $\psi_t^{\prime \prime}=h\left(\psi_t^{\prime}, D_t^{\prime}, L_t^{\prime}\right)$，其中 $D_t^{\prime}$ 是有限标记数据集合，$L_t^{\prime}$ 是对应的标签集合。本文提出的方法框架如图2所示，突出了在现有无监督域适应方法基础上构建AUDA的修改。
 
 * (5). 通过实验证明，本文提出的方法在语义分割任务中提高了无监督域适应的效果，跨多个视觉领域的mIoU提高了最多40.64%，同时使目标模型对目标域内的真实世界变化更加鲁棒。同时，本文还展示了AUDA作为一种标签高效的领域自适应框架，在目标域只有少量标记样本的情况下显著提高了目标域的性能。
 
