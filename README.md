@@ -1,5 +1,8 @@
 # MM-RobotLab 日报
 
+- 更新7月6号精选的8篇工作，涉及llm和机器人：
+- 知乎链接：[DailyRobot7.6精选版](https://zhuanlan.zhihu.com/p/641928814)
+
 - 本次更新包括了7月4日前精选出的 3 篇 LLM+Robotics+Multi-modal的相关研究文章，所有文章由chatgpt自动筛选，自动生成文章总结，最后由MM-RobotLab社区筛选出质量最高的并进行人工优化。
 
 # P:1 在强化学习中学习调节预训练模型
